@@ -2,10 +2,10 @@ const bootstrapCssFramework = {
   name: 'bootstrap',
   buttonClass: 'btn btn-default',
   checkboxClasses: {
-    checkedIcon: 'glyphicon glyphicon-ok',
+    checkedIcon: 'fa fa-check',
     container: 'text-center',
     editInput: 'checkbox',
-    uncheckedIcon: 'glyphicon glyphicon-remove'
+    uncheckedIcon: 'fa fa-times'
   },
   editClasses: {
     buttonGroup: 'btn-group',
