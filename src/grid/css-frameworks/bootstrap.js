@@ -26,7 +26,7 @@ const bootstrapCssFramework = {
     filterFormField: '',
     filterInputGroup: 'input-group',
     filterInput: 'form-control',
-    filterSearchIcon: 'glyphicon glyphicon-search',
+    filterSearchIcon: 'fa fa-search',
     sortAscendingIcon: 'glyphicon glyphicon-arrow-up',
     sortAvailableIcon: 'glyphicon glyphicon-sort',
     sortButtonGroup: 'btn-group btn-group-justified',
